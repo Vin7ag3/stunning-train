@@ -15,7 +15,7 @@ Open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I
 
 ## Credits
 
-N/A
+Content, images, and source code all rights belong to UNCC.  
 
 ## License
 
